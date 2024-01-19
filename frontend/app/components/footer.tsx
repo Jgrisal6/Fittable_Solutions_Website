@@ -1,5 +1,5 @@
 'use client'
- export default function Footer() {
+export default function Footer() {
     return (
         <footer>
             <div>
@@ -15,4 +15,4 @@
             </div>
         </footer>
     )
- }
+}
